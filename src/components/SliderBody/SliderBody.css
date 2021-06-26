@@ -1,0 +1,8 @@
+.SliderBody button {
+  background-color: rgba(13, 80, 143, 0.719);
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  height: 3rem;
+}

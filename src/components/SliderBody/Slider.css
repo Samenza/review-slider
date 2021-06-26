@@ -1,0 +1,13 @@
+.icon {
+  font-size: 5rem;
+  color: rgb(168, 102, 15);
+}
+.personImg {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.personImg img {
+  border-radius: 100px;
+  box-shadow: 1px 0px 3px 6px rgb(233 227 227);
+}
