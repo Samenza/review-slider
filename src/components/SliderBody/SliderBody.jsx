@@ -21,7 +21,7 @@ const SliderBody = () => {
       setCounter(0);
     }
     clearTimeout(counterTimer.current);
-    console.log("sss");
+
     counterTimer.current = setTimeout(() => {
       setCounter((c) => c + 1);
     }, 2000);
